@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/manish-lohare/Leetcode/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/manish-lohare/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1801-average-time-of-process-per-machine](https://github.com/manish-lohare/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/manish-lohare/Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
