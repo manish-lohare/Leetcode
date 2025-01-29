@@ -1,0 +1,10 @@
+Problem Statement: Filter and Sort Movies from the Cinema Table
+We have a Cinema table that contains details about movies, including their ID, name, description, and rating. The goal is to filter and sort the movies based on the following conditions:
+
+Select movies with an odd-numbered id (e.g., 1, 3, 5, ...).
+Exclude movies where description = 'boring'.
+Sort the final result in descending order by rating.
+📌 Key Constraints
+id is the primary key, meaning it contains unique values.
+rating is a floating-point number with two decimal places.
+The description column contains text labels that describe the movie.
