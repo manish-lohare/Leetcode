@@ -1,0 +1,31 @@
+✅ Steps to Process
+Filter Odd id Values:
+
+✅ Keep id = 1, 3, 5
+❌ Remove id = 2, 4 (even-numbered IDs)
+Exclude Movies with Description = 'boring'
+
+❌ id = 3 (description is "boring", so we remove it)
+Sort the Remaining Movies by Rating (Descending Order)
+
+id = 5 (rating 9.1)
+id = 1 (rating 8.9)
+
+🛠️ Explanation of SQL Query
+WHERE id % 2 = 1
+
+Checks if the id is odd (an odd number gives a remainder of 1 when divided by 2).
+AND description <> 'boring'
+
+Excludes movies where the description is "boring" (<> means "not equal to").
+ORDER BY rating DESC
+
+Sorts the movies by rating in descending order (highest rating first).
+
+🔥 Why This Approach?
+✅ Efficient Filtering: Uses simple WHERE conditions to eliminate unwanted rows.
+✅ Optimized Sorting: Uses ORDER BY on a numeric column (rating) for quick sorting.
+✅ Scalability: Works efficiently even for large datasets in the Cinema table.
+
+🚀 Final Thoughts
+This query efficiently filters movies based on ID, removes uninteresting ones, and sorts the results based on popularity (rating). It ensures we only show relevant movies to users! 🎥🍿
