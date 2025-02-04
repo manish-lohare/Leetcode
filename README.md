@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/manish-lohare/Leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1801-average-time-of-process-per-machine](https://github.com/manish-lohare/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
 ## Two Pointers
 |  |
