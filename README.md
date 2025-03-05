@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/manish-lohare/Leetcode/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/manish-lohare/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/manish-lohare/Leetcode/tree/master/0541-reverse-string-ii) |
+| [0812-rotate-string](https://github.com/manish-lohare/Leetcode/tree/master/0812-rotate-string) |
 ## Queue
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manish-lohare/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/manish-lohare/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
