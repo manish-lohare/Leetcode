@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/manish-lohare/Leetcode/tree/master/0013-roman-to-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/manish-lohare/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/manish-lohare/Leetcode/tree/master/2050-count-good-numbers) |
 | [3567-convert-date-to-binary](https://github.com/manish-lohare/Leetcode/tree/master/3567-convert-date-to-binary) |
 ## Stack
 |  |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/manish-lohare/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/manish-lohare/Leetcode/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
