@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/manish-lohare/Leetcode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/manish-lohare/Leetcode/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/manish-lohare/Leetcode/tree/master/0792-binary-search) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/manish-lohare/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Hash Table
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/manish-lohare/Leetcode/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/manish-lohare/Leetcode/tree/master/0792-binary-search) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/manish-lohare/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Sorting
