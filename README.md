@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/manish-lohare/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/manish-lohare/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/manish-lohare/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/manish-lohare/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3567-convert-date-to-binary](https://github.com/manish-lohare/Leetcode/tree/master/3567-convert-date-to-binary) |
 ## Queue
 |  |
@@ -252,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/manish-lohare/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Simulation
+|  |
+| ------- |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/manish-lohare/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 <!---LeetCode Topics End-->
