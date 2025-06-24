@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/manish-lohare/Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/manish-lohare/Leetcode/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manish-lohare/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/manish-lohare/Leetcode/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/manish-lohare/Leetcode/tree/master/0055-jump-game) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/manish-lohare/Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/manish-lohare/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/manish-lohare/Leetcode/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/manish-lohare/Leetcode/tree/master/0125-valid-palindrome) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/manish-lohare/Leetcode/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/manish-lohare/Leetcode/tree/master/0148-sort-list) |
 | [0451-sort-characters-by-frequency](https://github.com/manish-lohare/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/manish-lohare/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
