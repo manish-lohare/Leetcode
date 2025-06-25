@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/manish-lohare/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/manish-lohare/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3194-find-words-containing-character](https://github.com/manish-lohare/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3321-type-of-triangle](https://github.com/manish-lohare/Leetcode/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/manish-lohare/Leetcode/tree/master/0148-sort-list) |
 | [0451-sort-characters-by-frequency](https://github.com/manish-lohare/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/manish-lohare/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [3321-type-of-triangle](https://github.com/manish-lohare/Leetcode/tree/master/3321-type-of-triangle) |
 ## Math
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/manish-lohare/Leetcode/tree/master/0069-sqrtx) |
 | [2032-largest-odd-number-in-string](https://github.com/manish-lohare/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/manish-lohare/Leetcode/tree/master/2050-count-good-numbers) |
+| [3321-type-of-triangle](https://github.com/manish-lohare/Leetcode/tree/master/3321-type-of-triangle) |
 | [3567-convert-date-to-binary](https://github.com/manish-lohare/Leetcode/tree/master/3567-convert-date-to-binary) |
 ## Stack
 |  |
