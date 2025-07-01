@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/manish-lohare/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3194-find-words-containing-character](https://github.com/manish-lohare/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3567-convert-date-to-binary](https://github.com/manish-lohare/Leetcode/tree/master/3567-convert-date-to-binary) |
+| [3617-find-the-original-typed-string-i](https://github.com/manish-lohare/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Queue
 |  |
 | ------- |
