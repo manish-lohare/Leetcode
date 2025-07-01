@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/manish-lohare/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/manish-lohare/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/manish-lohare/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/manish-lohare/Leetcode/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/manish-lohare/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/manish-lohare/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0812-rotate-string](https://github.com/manish-lohare/Leetcode/tree/master/0812-rotate-string) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/manish-lohare/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/manish-lohare/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/manish-lohare/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0392-is-subsequence](https://github.com/manish-lohare/Leetcode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/manish-lohare/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/manish-lohare/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/manish-lohare/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -289,4 +291,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/manish-lohare/Leetcode/tree/master/0055-jump-game) |
+| [0392-is-subsequence](https://github.com/manish-lohare/Leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
