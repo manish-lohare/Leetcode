@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/manish-lohare/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manish-lohare/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/manish-lohare/Leetcode/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/manish-lohare/Leetcode/tree/master/0189-rotate-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/manish-lohare/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/manish-lohare/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0792-binary-search](https://github.com/manish-lohare/Leetcode/tree/master/0792-binary-search) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/manish-lohare/Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/manish-lohare/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/manish-lohare/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/manish-lohare/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/manish-lohare/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/manish-lohare/Leetcode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/manish-lohare/Leetcode/tree/master/0541-reverse-string-ii) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/manish-lohare/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/manish-lohare/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/manish-lohare/Leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/manish-lohare/Leetcode/tree/master/0189-rotate-array) |
 | [2032-largest-odd-number-in-string](https://github.com/manish-lohare/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/manish-lohare/Leetcode/tree/master/2050-count-good-numbers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/manish-lohare/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
