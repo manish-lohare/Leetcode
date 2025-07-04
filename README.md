@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/manish-lohare/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/manish-lohare/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/manish-lohare/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2722-prime-in-diagonal](https://github.com/manish-lohare/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [3194-find-words-containing-character](https://github.com/manish-lohare/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/manish-lohare/Leetcode/tree/master/3321-type-of-triangle) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/manish-lohare/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/manish-lohare/Leetcode/tree/master/0189-rotate-array) |
 | [2032-largest-odd-number-in-string](https://github.com/manish-lohare/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/manish-lohare/Leetcode/tree/master/2050-count-good-numbers) |
+| [2722-prime-in-diagonal](https://github.com/manish-lohare/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/manish-lohare/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/manish-lohare/Leetcode/tree/master/3321-type-of-triangle) |
 | [3567-convert-date-to-binary](https://github.com/manish-lohare/Leetcode/tree/master/3567-convert-date-to-binary) |
@@ -309,4 +311,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/manish-lohare/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Matrix
+|  |
+| ------- |
+| [2722-prime-in-diagonal](https://github.com/manish-lohare/Leetcode/tree/master/2722-prime-in-diagonal) |
+## Number Theory
+|  |
+| ------- |
+| [2722-prime-in-diagonal](https://github.com/manish-lohare/Leetcode/tree/master/2722-prime-in-diagonal) |
 <!---LeetCode Topics End-->
