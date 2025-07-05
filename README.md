@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/manish-lohare/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0792-binary-search](https://github.com/manish-lohare/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/manish-lohare/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [0958-sort-array-by-parity-ii](https://github.com/manish-lohare/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/manish-lohare/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/manish-lohare/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/manish-lohare/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/manish-lohare/Leetcode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/manish-lohare/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/manish-lohare/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [0958-sort-array-by-parity-ii](https://github.com/manish-lohare/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/manish-lohare/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Sliding Window
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/manish-lohare/Leetcode/tree/master/0148-sort-list) |
 | [0451-sort-characters-by-frequency](https://github.com/manish-lohare/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/manish-lohare/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0958-sort-array-by-parity-ii](https://github.com/manish-lohare/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/manish-lohare/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/manish-lohare/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3321-type-of-triangle](https://github.com/manish-lohare/Leetcode/tree/master/3321-type-of-triangle) |
