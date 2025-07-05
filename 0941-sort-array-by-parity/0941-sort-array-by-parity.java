@@ -1,3 +1,5 @@
+//odd size  1 and last odd vice versa
+//even size 1 (even) and last(odd) vice versa
 class Solution {
     public int[] sortArrayByParity(int[] nums) {
         int k=nums.length;
