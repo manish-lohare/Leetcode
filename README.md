@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/manish-lohare/Leetcode/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/manish-lohare/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/manish-lohare/Leetcode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/manish-lohare/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/manish-lohare/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/manish-lohare/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manish-lohare/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/manish-lohare/Leetcode/tree/master/0078-subsets) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/manish-lohare/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Matrix
 |  |
@@ -328,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2722-prime-in-diagonal](https://github.com/manish-lohare/Leetcode/tree/master/2722-prime-in-diagonal) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/manish-lohare/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
